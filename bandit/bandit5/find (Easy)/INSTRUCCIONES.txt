@@ -1,0 +1,14 @@
+Esta carpeta es una bóveda de Obsidian. Para que todo funcione correctamente:
+
+    Abre Obsidian y selecciona "Open folder as vault".
+    Elige esta carpeta raíz (find (Easy)).
+    Al abrir, aparecerá un aviso de seguridad: selecciona "Trust author and enable plugins" para cargar la configuración.
+
+PLUGINS NECESARIOS:
+Los plugins ya vienen instalados en la bóveda, solo asegúrate de que estén activados en Ajustes > Community Plugins para que el contenido se visualice correctamente:
+
+    Iframe: https://github.com/FHachez/obsidian-convert-url-to-iframe
+    Make.md: https://github.com/Make-md/makemd
+
+NeTenebrae
+YouTube: https://youtube.com/@NeTenebrae
