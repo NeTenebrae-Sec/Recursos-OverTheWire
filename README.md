@@ -15,7 +15,7 @@
 
 | Ruta | Nivel |
 |---|---|
-| `bandit/bandit5/find (Easy)/` | **Bandit 5 → 6**: búsqueda de archivos con `find` |
+| `bandit/bandit5/find (Easy)/` | **Bandit 5 -> 6**: búsqueda de archivos con `find` |
 
 Cada nivel incluye:
 
@@ -27,10 +27,10 @@ Cada nivel incluye:
 ## Cómo usarlo
 
 1. Descarga la bóveda desde su **enlace oficial gratuito en [Ko-fi](https://ko-fi.com/netenebrae)**.
-2. Abre **Obsidian** → *Open folder as vault* → elige la carpeta `find (Easy)`.
+2. Abre **Obsidian** -> *Open folder as vault* -> elige la carpeta `find (Easy)`.
 3. Al abrir, acepta *Trust author and enable plugins* para cargar la configuración.
 
-> Los plugins ya vienen incluidos en la bóveda ([convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe), [Make.md](https://github.com/Make-md/makemd)); solo hay que activarlos en *Settings → Community Plugins*.
+> Los plugins ya vienen incluidos en la bóveda ([convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe), [Make.md](https://github.com/Make-md/makemd)); solo hay que activarlos en *Settings -> Community Plugins*.
 
 ## Formato de las notas
 
